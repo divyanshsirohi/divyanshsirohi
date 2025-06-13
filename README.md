@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyanshsirohi](https://github.com/divyanshsirohi)
 
-- 📝 I regularly write articles on [https://yourblog.dev](https://yourblog.dev)
-
 - 💬 Ask me about **Rust, C++, system design, algorithms, or dev tools**
 
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **sirohidivyansh@example.com**
 
 - ⚡ Fun fact **I once built a neural network in C from scratch just for fun**
 
