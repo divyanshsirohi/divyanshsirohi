@@ -2,14 +2,15 @@
 <h3 align="center">A passionate full-stack developer and systems programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshsirohi&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshsirohi" /> </p>
-
-- 🔭 I’m currently working on **Rust-based microservices and low-level OS projects**
+- 🔭 I’m currently working on **Rust-based microservices, low-level OS projects, and a C++-based order book as part of my journey into quant finance alongside many other smaller simpler projects**
 
 - 🌱 I’m currently learning **advanced database design, WASM, and compiler internals**
 
 - 👯 I’m looking to collaborate on **open-source tools that push the boundaries of performance**
 
 - 🤝 I’m looking for help with **building high-performance systems in C++ and exploring ML applications in low-level environments**
+
+- 🧠 I enjoy digging deep into **C++ internals and recreating core systems from scratch** — from memory allocators to neural nets — as a way to understand the true fundamentals of coding
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyanshsirohi](https://github.com/divyanshsirohi)
 
