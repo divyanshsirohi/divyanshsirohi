@@ -47,6 +47,12 @@
 </p>
 
 ---
+<!-- GitHub contribution snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divyanshsirohi/divyanshsirohi/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
