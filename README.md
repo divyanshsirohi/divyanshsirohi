@@ -49,7 +49,9 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsirohi&layout=compact&langs_count=10&cache_seconds=86400" alt="Top Langs" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsirohi&layout=compact&langs_count=10&hide_title=true&hide_border=true&theme=default&v=3" alt="Top Languages" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshsirohi&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
