@@ -9,13 +9,17 @@ I'm a **Computer Science undergraduate at MIT Manipal**, graduating in **2027**.
 ### 🛠 Tech I work with:
 
 **Languages**  
-`C` • `C++` • `Python` • `Java` • `Go` • `Rust` • `Bash/Shell` • `JavaScript` • `TypeScript` • `Assembly` • `Markdown`
-
-**Frontend**  
-`HTML` • `CSS` • `ReactJS` • `Next.js` • `Tailwind CSS` • `Tkinter` • `Pygame` • `Figma`
-
-**Backend**  
-`Node.js` • `Express` • `REST APIs` • `GraphQL` • `Microservices` • `Docker` • `Redis` • `PostgreSQL` • `MongoDB`
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)  
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)  
+![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg)  
+![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
+🖥️ Assembly  
+📝 Markdown
 
 
 ### 📫 Let’s connect:
