@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1ZSmRVqQ2oSqvBs1-PynJ1p_I3CLS5IMX](https://drive.google.com/drive/u/0/folders/1ZSmRVqQ2oSqvBs1-PynJ1p_I3CLS5IMX)
 
+[![An image of @divyanshsirohi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyanshsirohi)](https://holopin.io/@divyanshsirohi)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyanshsirohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshsirohi" height="30" width="40" /></a>
