@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **sirohidivyansh@gmail.com**
 
-[![An image of @divyanshsirohi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyanshsirohi)](https://holopin.io/@divyanshsirohi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +15,6 @@
 ---
 
 ## 🔬 Research  
-(as per resume :contentReference[oaicite:2]{index=2})
 
 ### 📌 Temporal Modeling of APT Campaigns using State Space Networks (2025, in preparation)  
 Building SSM-based temporal threat modeling pipelines for APT stage prediction.
@@ -80,3 +78,4 @@ A modern, batteries-included Neovim setup for Python, C++, Markdown, LaTeX, and 
 <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 <img alt="Vim" src="https://img.shields.io/badge/-Vim-019833?&style=for-the-badge&logo=Vim&logoColor=white" />
 </div>
+[![An image of @divyanshsirohi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyanshsirohi)](https://holopin.io/@divyanshsirohi)
