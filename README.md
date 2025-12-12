@@ -15,12 +15,6 @@
 
 ---
 
-<div style="display: flex;">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshsirohi)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
----
-
 ## 🔬 Research  
 (as per resume :contentReference[oaicite:2]{index=2})
 
