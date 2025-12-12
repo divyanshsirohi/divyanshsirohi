@@ -31,17 +31,17 @@ Developing calibration/correction models for low-budget IoT pollution sensors.
 
 ## 🚀 Highlight Projects
 
-###🔹div-os
+### 🔹div-os
 An operating system built from the kernel level in Rust
 **Repo:** https://github.com/divyanshsirohi/div-os
 
-###🔹LLVM-Based Code Optimization Pass (Code Analyzer) 
+### 🔹LLVM-Based Code Optimization Pass (Code Analyzer) 
 A custom code-analysis + optimization project using C++, LLVM IR, and MLIR.  
 Implements loop vectorization, DCE, and SSA-validated IR transformations.  
 Improved execution time of computational kernels by 22%.  
 
 
-### 🔹 nvim-config  
+### 🔹nvim-config  
 A modern, batteries-included Neovim setup for Python, C++, Markdown, LaTeX, and more.  
 **Repo:** https://github.com/divyanshsirohi/neovim-config  
 
