@@ -17,7 +17,7 @@
 
 
 <div style="display: flex;">
-<img alt="GitHub Stats" width="46%" src="https://github-readme-stats.vercel.app/api?username=divyanshsirohi&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshsirohi&show_icons=true&locale=en&layout=compact" alt="divyanshsirohi" /></p>
 </div>
 
 ---
