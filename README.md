@@ -13,11 +13,10 @@
 <a href="https://www.leetcode.com/div2506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="div2506" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshsirohi&show_icons=true&locale=en&layout=compact" alt="divyanshsirohi" /></p>
-
+---
 
 <div style="display: flex;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshsirohi&show_icons=true&locale=en&layout=compact" alt="divyanshsirohi" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshsirohi)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
