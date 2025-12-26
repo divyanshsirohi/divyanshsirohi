@@ -1,29 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyansh Sirohi</h1>
 <h3 align="center">A fullstack, ML engineer from india</h3>
 
-<p align="left">
-<a href="https://linkedin.com/in/divyanshsirohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshsirohi" height="30" width="40" /></a>
-</p>
-
-## Highlight Projects
-
-### div-os
-An operating system built from the kernel level in Rust
-Repo: https://github.com/divyanshsirohi/div-os
-
-### LLVM-Based Code Optimization Pass (Code Analyzer) 
-A custom code-analysis + optimization project using C++, LLVM IR, and MLIR.  
-Implements loop vectorization, DCE, and SSA-validated IR transformations.  
-Improved execution time of computational kernels by 22%.  
-
-
-### nvim-config  
-A modern, batteries-included Neovim setup for Python, C++, Markdown, LaTeX, and more.  
-Repo: https://github.com/divyanshsirohi/neovim-config  
-## Languages & Tools
-
-<div style="display: flex; flex-wrap: wrap;">
-
 <!-- Core Languages -->
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&style=for-the-badge" />
